@@ -8,19 +8,19 @@ I’m a Computer Science Engineering student with a passion for solving complex 
 ## ⚙️ Tech Foundation  
 
 ### 🧠 **Languages I Know:**  
-<a href="https://www.python.org/" target="_blank"><button style="background-color:#3776AB; color:white; padding:10px; border:none; border-radius:5px;">Python</button></a>
-<a href="https://en.cppreference.com/w/" target="_blank"><button style="background-color:#00599C; color:white; padding:10px; border:none; border-radius:5px;">C++</button></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><button style="background-color:#E34F26; color:white; padding:10px; border:none; border-radius:5px;">HTML5</button></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><button style="background-color:#1572B6; color:white; padding:10px; border:none; border-radius:5px;">CSS3</button></a>
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)  
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### 🧰 **Databases I’ve Explored:**  
-<a href="https://www.sqlite.org/" target="_blank"><button style="background-color:#003B57; color:white; padding:10px; border:none; border-radius:5px;">SQLite</button></a>
-<a href="https://www.mysql.com/" target="_blank"><button style="background-color:#4479A1; color:white; padding:10px; border:none; border-radius:5px;">MySQL</button></a>
+### 🛠️ **Databases I’ve Explored:**  
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)  
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-### 🛠️ **Tools I Use:**  
-<a href="https://code.visualstudio.com/" target="_blank"><button style="background-color:#0078D4; color:white; padding:10px; border:none; border-radius:5px;">VS Code</button></a>
-<a href="https://git-scm.com/" target="_blank"><button style="background-color:#F1502F; color:white; padding:10px; border:none; border-radius:5px;">Git</button></a>
-<a href="https://www.kali.org/" target="_blank"><button style="background-color:#557C94; color:white; padding:10px; border:none; border-radius:5px;">Kali Linux</button></a>
+### 🧰 **Tools I Use:**  
+[![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)  
+[![Git](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 
 ---
 
@@ -66,3 +66,4 @@ When I’m not learning or building, I’m usually:
 ---
 
 ### Let’s build the future with intelligence — one model at a time. 🤖✨
+
