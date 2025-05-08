@@ -8,15 +8,25 @@ I’m a Computer Science Engineering student with a passion for solving complex 
 ## ⚙️ Tech Foundation  
 
 ### 🧠 **Languages I Know:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+<table>
+  <tr><td>![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</td></tr>
+  <tr><td>![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</td></tr>
+  <tr><td>![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</td></tr>
+  <tr><td>![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</td></tr>
+</table>
+
+### 🧰 **Databases I’ve Explored:**  
+<table>
+  <tr><td>![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)</td></tr>
+  <tr><td>![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)</td></tr>
+</table>
 
 ### 🛠️ **Tools I Use:**  
-![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+<table>
+  <tr><td>![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)</td></tr>
+  <tr><td>![Git](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white)</td></tr>
+  <tr><td>![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)</td></tr>
+</table>
 
 ---
 
@@ -36,14 +46,13 @@ I’m a Computer Science Engineering student with a passion for solving complex 
 - 👨‍💼 **Chief Strategist @ AltReality Club** – Led collaborations with companies like Microsoft.  
 - 🎓 **Deputy Minister, Clubs & Chapters** – Managed 25+ student bodies at Bennett University.  
 - 🌍 **NGO Volunteer** – Orchestrated flood relief, tree plantation & COVID-19 aid drives.  
-- 🧠 **World Scholar’s Cup Finalist** – Ranked 103rd globally among 1,500+ debaters.  
 
 ---
 
 ## 🔗 Let’s Connect
 
 📧 **Email**: [kalashharchandani@gmail.com](mailto:kalashharchandani@gmail.com)  
-🐦 **Twitter**: [@Kalash_Harchandani](https://twitter.com/Kalash_Harchandani)  
+🐦 **Twitter**: [@Kalash_Harchandani](https://x.com/KalashOutLoud)  
 💼 **LinkedIn**: [Kalash Harchandani](https://www.linkedin.com/in/kalash-harchandani/)  
 👨‍💻 **GitHub**: [Kalash-Harchandani](https://github.com/Kalash-Harchandani)
 
@@ -63,4 +72,5 @@ When I’m not learning or building, I’m usually:
 ---
 
 ### Let’s build the future with intelligence — one model at a time. 🤖✨
+
 
