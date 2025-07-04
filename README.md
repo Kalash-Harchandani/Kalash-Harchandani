@@ -1,10 +1,4 @@
-<h1 align="center">Hi, I’m Kalash Harchandani 👨‍💻</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1FF2E0&center=true&vCenter=true&width=480&lines=SDE+Intern+%40+TechKareer;200%2B+DSA+Qs+%7C+Still+Debugging+in+my+Sleep;React-ing+to+Life+%F0%9F%92%BB;Coffee.+Code.+Repeat.%E2%98%95%EF%B8%8F;Shipping+Side+Projects+Since+Never" alt="Typing animation" />
-</p>
-
----
+<h1 align="center">Hi, I’m Kalash Harchandani - Btech CSE Undergrad @ Bennett Un 👨‍💻</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
@@ -54,7 +48,7 @@ In reality, I'm either solving DSA, pushing commits, or Googling “how to fix X
   <a href="https://www.linkedin.com/in/kalash-harchandani/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
   <a href="https://github.com/Kalash-Harchandani"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
   <a href="https://x.com/KalashOutLoud"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a>
-  <a href="https://www.instagram.com/kslashhdani/"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
+  <a href="https://www.instagram.com/kalashhdani/"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
 </p>
 
 ---
