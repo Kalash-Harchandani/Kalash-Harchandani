@@ -1,55 +1,74 @@
-# 👋 Hey, I’m **Kalash Harchandani**
-
-### 💻 Aspiring SDE | CSE @ Bennett University | Problem Solver
-
-Focused on clean code, real-world builds, and consistent problem-solving. Currently exploring full-stack development with the MERN stack while leveling up DSA through regular LeetCode practice.
-
----
-
-## ⚙️ Tech Stack
-
-### 💡 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-3C3C3C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDY0IDY0Ij48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIGZpbGw9IiMwMDAiIHJ4PSIxMiIvPjxwYXRoIGQ9Ik0yNSAxNWwyMiA4LTE0IDEyLTggLTE5eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==)
-
----
-
-## 🧠 LeetCode Dashboard
-
-[![LeetCode badge](https://img.shields.io/badge/LeetCode-Kalash_Harchandani-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Kalash-Harchandani/)
+<h1 align="center">Hi, I’m Kalash Harchandani 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Kalash-Harchandani?theme=light&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1FF2E0&center=true&vCenter=true&width=480&lines=SDE+Intern+%40+TechKareer;200%2B+DSA+Qs+%7C+Still+Debugging+in+my+Sleep;React-ing+to+Life+%F0%9F%92%BB;Coffee.+Code.+Repeat.%E2%98%95%EF%B8%8F;Shipping+Side+Projects+Since+Never" alt="Typing animation" />
 </p>
 
 ---
 
-## 🔗 Let’s Connect
-
-[![Email](https://img.shields.io/badge/Email-kalashharchandani@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalashharchandani@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalash-harchandani/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kalash-Harchandani)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KalashOutLoud)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
-> *“The best way to predict the future is to create it.”* – Peter Drucker
+## 🧠 About Me
+
+Hey there, I’m Kalash — I break things and fix them better.  
+SDE Intern @ **TechKareer**, worked directly with the founder on multiple verticals in a fast-evolving startup environment.  
+In reality, I'm either solving DSA, pushing commits, or Googling “how to fix X in Y” like a true dev 💻🔍
+
+> “99 bugs in the code... take one down, patch it around… 117 bugs in the code.”
+
+---
+
+## ⚙️ My Not-So-Secret Weapons
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,express,react,mongodb,mysql,sqlite,html,css" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 💼 Experience
+
+### 🔹 **Software Development Intern – TechKareer** *(May 2025 – July 2025)*  
+- Selected among the top 5% of applicants for a dual-role internship at a high-growth tech startup  
+- Developed and optimized backend services for a custom search engine, improving performance and scalability  
+- Integrated data scraping modules and streamlined data workflows  
+- Collaborated directly with the founder across development, strategy, and operations
+
+### 🔹 **International Immersion Program – Universiti Teknologi PETRONAS, Malaysia** *(August 2024 – September 2024)*  
+- Selected through Bennett University for a competitive global academic and cultural exchange  
+- Worked on cross-functional technical projects with international peers  
+- Strengthened collaboration, communication, and problem-solving skills in a globally diverse environment
 
 
+---
+
+## 🔗 Let’s Connect Before My Wi-Fi Drops
+
+<p align="center">
+  <a href="mailto:kalashharchandani@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+  <a href="https://www.linkedin.com/in/kalash-harchandani/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="https://github.com/Kalash-Harchandani"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+  <a href="https://x.com/KalashOutLoud"><img src="https://skillicons.dev/icons?i=twitter" height="50"/></a>
+  <a href="https://www.instagram.com/kslashhdani/"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
+</p>
+
+---
+
+## 🎥 My Life in a Row of Gifs
+
+<p align="center">
+  <img src="https://media.giphy.com/media/vsZF2hC9cH0Mo/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/3og0IQCfsZXScpvKhi/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/llfVoXzlEppScDN9V5/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/Kx8EUubW3AXAjKdqHU/giphy.gif" width="200" height="150"/>
+</p>
+
+<p align="center">
+  <i>"The best way to predict the future is to create it." – Peter Drucker</i><br>
+  <b>Meanwhile, I'm predicting bugs 🐛</b>
+</p>
