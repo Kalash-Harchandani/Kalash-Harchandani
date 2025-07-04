@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I’m Kalash Harchandani - Btech CSE Undergrad @ Bennett Un 👨‍💻</h1>
+<h1 align="center">Hi, I’m Kalash Harchandani </h1>
+<h1 align="center"> Btech-CSE Undergrad @ Bennett University👨‍💻</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
