@@ -7,41 +7,13 @@
 
 ---
 
-## 🧠 About Me
-
-Hey there, I’m Kalash — I break things and fix them better.  
-SDE Intern @ **TechKareer**, worked directly with the founder on multiple verticals in a fast-evolving startup environment.  
-In reality, I'm either solving DSA, pushing commits, or Googling “how to fix X in Y” like a true dev 💻🔍
-
-> “99 bugs in the code... take one down, patch it around… 117 bugs in the code.”
-
----
-
 ## ⚙️ My Not-So-Secret Weapons
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,express,react,mongodb,mysql,sqlite,html,css" /><br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,react,mongodb,html,css" /><br><br>
 </p>
 
 ---
-
-## 💼 Experience
-
-### 🔹 **Software Development Intern – TechKareer** *(May 2025 – July 2025)*  
-- Selected among the top 5% of applicants for a dual-role internship at a high-growth tech startup  
-- Developed and optimized backend services for a custom search engine, improving performance and scalability  
-- Integrated data scraping modules and streamlined data workflows  
-- Collaborated directly with the founder across development, strategy, and operations
-
-### 🔹 **International Immersion Program – Universiti Teknologi PETRONAS, Malaysia** *(August 2024 – September 2024)*  
-- Selected through Bennett University for a competitive global academic and cultural exchange  
-- Worked on cross-functional technical projects with international peers  
-- Strengthened collaboration, communication, and problem-solving skills in a globally diverse environment
-
-
----
-
 ## 🔗 Let’s Connect Before My Wi-Fi Drops
 
 <p align="center">
