@@ -10,7 +10,7 @@
 ## ⚙️ My Not-So-Secret Weapons
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,react,mongodb,html,css" /><br><br>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs,express,react,mongodb,html,css" /><br><br>
 </p>
 
 ---
